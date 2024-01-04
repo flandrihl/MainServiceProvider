@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpGr+eVe0XW7jni+qp5wCBJOmQIj9IZrO7JL7veAiSi/akN5QfmCX5eSyLFqmaArRI2WZWjiWhMclDbdGHaafw==",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\GitHub\\MainServiceProvider\\MainServiceProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konopelko\\.nuget\\packages\\commonservicelocator\\2.0.7\\commonservicelocator.2.0.7.nupkg.sha512",
+    "C:\\Users\\konopelko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\konopelko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

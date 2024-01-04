@@ -1,0 +1,11 @@
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\netstandard2.1\MainServiceProvider.deps.json
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\netstandard2.1\MainServiceProvider.dll
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\netstandard2.1\MainServiceProvider.pdb
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.csproj.AssemblyReference.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.AssemblyInfoInputs.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.AssemblyInfo.cs
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.csproj.CoreCompileInputs.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.sourcelink.json
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.dll
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\netstandard2.1\MainServiceProvider.pdb

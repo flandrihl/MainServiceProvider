@@ -1,0 +1,12 @@
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\net48\MainServiceProvider.dll
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\net48\MainServiceProvider.pdb
+D:\Docs\GitHub\MainServiceProvider\bin\Debug\net48\CommonServiceLocator.dll
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.csproj.AssemblyReference.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.AssemblyInfoInputs.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.AssemblyInfo.cs
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.csproj.CoreCompileInputs.cache
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.sourcelink.json
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.csproj.CopyComplete
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.dll
+D:\Docs\GitHub\MainServiceProvider\obj\Debug\net48\MainServiceProvider.pdb
